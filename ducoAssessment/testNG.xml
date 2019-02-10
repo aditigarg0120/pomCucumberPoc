@@ -1,0 +1,7 @@
+<suite name="My test suite" verbose="1" preserve-order="true">>
+  <test name="testing" parallel="none">>
+    <classes>
+            <class name="TestRunner"/>
+    </classes>
+  </test>
+</suite>
